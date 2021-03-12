@@ -3,7 +3,7 @@ This Project created using React, Redux and JS
 It is a music keypad press any button or equivalent key from keyboard, it should play a msuic sound.
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
