@@ -1,4 +1,4 @@
-# Drums Mahcine - from freecodecamp -
+# Drums Machine - from freecodecamp -
 This Project created using React, Redux and JS
 It is a music keypad press any button or equivalent key from keyboard, it should play a msuic sound.
 
